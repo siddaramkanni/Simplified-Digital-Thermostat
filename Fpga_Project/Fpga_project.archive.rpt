@@ -1,0 +1,91 @@
+Archive Project report for Fpga_project
+Mon Aug 05 15:42:14 2019
+Quartus Prime Version 16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 1991-2016 Altera Corporation. All rights reserved.
+Your use of Altera Corporation's design tools, logic functions 
+and other software and tools, and its AMPP partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Altera Program License 
+Subscription Agreement, the Altera Quartus Prime License Agreement,
+the Altera MegaCore Function License Agreement, or other 
+applicable license agreement, including, without limitation, 
+that your use is for the sole purpose of programming logic 
+devices manufactured by Altera and sold by Altera or its 
+authorized distributors.  Please refer to the applicable 
+agreement for further details.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Mon Aug 05 15:42:14 2019 ;
+; Revision Name          ; Fpga_project                          ;
+; Top-level Entity Name  ; Fpga_project                          ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/altera_lite/16.0/Fpga_Project/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/altera_lite/16.0/Fpga_Project/Fpga_project_Final.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'Fpga_project.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/altera_lite/16.0/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 0 warnings
+    Info: Peak virtual memory: 5050 megabytes
+    Info: Processing ended: Mon Aug 05 15:42:14 2019
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:02
+
+
++--------------------------------------+
+; Files Archived                       ;
++--------------------------------------+
+; File Name                            ;
++--------------------------------------+
+; Fpga_project.bdf                     ;
+; Fpga_project.qpf                     ;
+; Fpga_project.qsf                     ;
+; Fpga_project.sdc                     ;
+; Fpga_project_assignment_defaults.qdf ;
+; output_files/Chain13.cdf             ;
+; output_files/Fpga_project.sdc        ;
+; P_pll.cmp                            ;
+; P_pll.qip                            ;
+; P_pll.sip                            ;
+; P_pll.spd                            ;
+; P_pll.vhd                            ;
+; P_pll/P_pll_0002.qip                 ;
+; P_pll/P_pll_0002.v                   ;
+; P_pll_sim/P_pll.vho                  ;
+; thermostat.vhd                       ;
++--------------------------------------+
+
+

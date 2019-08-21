@@ -1,0 +1,33 @@
+Quartus Prime Archive log --	C:/altera_lite/16.0/Fpga_Project/Fpga_project_Final.qarlog
+
+Archive:	C:/altera_lite/16.0/Fpga_Project/Fpga_project_Final.qar
+Date:		Mon Aug 05 15:42:14 2019
+Quartus Prime		16.0.0 Build 211 04/27/2016 SJ Lite Edition
+
+	=========== Files Selected: ===========
+C:/altera_lite/16.0/Fpga_Project/Fpga_project.bdf
+C:/altera_lite/16.0/Fpga_Project/Fpga_project.qpf
+C:/altera_lite/16.0/Fpga_Project/Fpga_project.qsf
+C:/altera_lite/16.0/Fpga_Project/Fpga_project.sdc
+C:/altera_lite/16.0/Fpga_Project/Fpga_project_assignment_defaults.qdf
+C:/altera_lite/16.0/Fpga_Project/P_pll.cmp
+C:/altera_lite/16.0/Fpga_Project/P_pll.qip
+C:/altera_lite/16.0/Fpga_Project/P_pll.sip
+C:/altera_lite/16.0/Fpga_Project/P_pll.spd
+C:/altera_lite/16.0/Fpga_Project/P_pll.vhd
+C:/altera_lite/16.0/Fpga_Project/P_pll/P_pll_0002.qip
+C:/altera_lite/16.0/Fpga_Project/P_pll/P_pll_0002.v
+C:/altera_lite/16.0/Fpga_Project/P_pll_sim/P_pll.vho
+C:/altera_lite/16.0/Fpga_Project/output_files/Chain13.cdf
+C:/altera_lite/16.0/Fpga_Project/output_files/Fpga_project.sdc
+C:/altera_lite/16.0/Fpga_Project/thermostat.vhd
+	======= Total: 16 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Mon Aug 05 16:33:47 2019
+Source archive file:	C:/altera_lite/16.0/Fpga_Project/Fpga_project_Final.qar
+Archive was extracted into	C:/altera_lite/16.0/Fpga_Project/Fpga_project_Final_restored/
+		 - successfully.
